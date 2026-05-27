@@ -103,9 +103,8 @@ Here’s how it looks in action 👇
 
 
 | Day Try Our Apps                      | Day Rate Us                                  | Night Try Our Apps                                |Night Rate Us                               |
-|---------------------------------------|----------------------------------------------|-------------------------------------|
+|---------------------------------------|----------------------------------------------|-------------------------------------|-------------------------------------|
 | ![Day Try Our Apps ](screenshots/dt.png) | ![Day Rate Us](screenshots/dr.png) | ![Night Try Our Apps ](screenshots/nt.png) |![Night Rate Us ](screenshots/nr.png) |
----
 
 
 ## 📲 Download Sample
