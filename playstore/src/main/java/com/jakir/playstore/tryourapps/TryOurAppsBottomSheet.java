@@ -27,6 +27,9 @@ import java.util.List;
 public class TryOurAppsBottomSheet extends BottomSheetDialogFragment {
     List<Appinfo> appList = new ArrayList<>();
 
+    public TryOurAppsBottomSheet() {
+    }
+
     public TryOurAppsBottomSheet(List<Appinfo> appList) {
         this.appList = appList;
     }
